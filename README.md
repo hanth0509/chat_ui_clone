@@ -1,3 +1,6 @@
+## **Nguyễn Thị Hoài Hà -22IT073**
+
+**Week 4**
 # 💬 Chat UI Clone - Flutter
 
 A beautiful and functional chat interface clone inspired by WhatsApp/Messenger, built with Flutter and Provider state management.
@@ -90,5 +93,6 @@ dependencies:
 
 ## 📸 Screenshots
   /assets
+
 
 
